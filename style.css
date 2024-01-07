@@ -361,9 +361,7 @@ input[type=reset] {
 
 /* tablet */
 @media  (min-width:769px) and (max-width:1023px){
-body{
-    background-color: #6c8ef3;
-}
+
 .hero_section {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
